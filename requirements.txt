@@ -1,0 +1,7 @@
+# pip install -r requirements.txt 
+requests
+bs4
+urllib3
+html5lib
+pandas
+lxml
